@@ -1,3 +1,9 @@
-Grizzly sample using OSGi.
+This project provides Maven2[1] Archetype for easy Quick Start with Grizzly[2] within OSGi[3].
 
-Shows how to use Grizzly http://grizzly.dev.java.net/ in OSGi environment. 
+To create project based on this archetype jump to your console and exec this:
+
+    mvn archetype:generate -DarchetypeCatalog=http://kungfoo-m2.googlecode.com/svn/trunk/archetype-catalog.xml
+
+[1] http://maven.apache.org
+[2] http://grizzly.dev.java.net
+[3] http://www.osgi.org 
