@@ -1,0 +1,8 @@
+<archetype>
+  <id>startup</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+    <source>src/main/java/impl/Activator.java</source>
+  </sources>
+</archetype>
+

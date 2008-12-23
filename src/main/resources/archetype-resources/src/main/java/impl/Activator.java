@@ -1,8 +1,10 @@
-package net.kungfoo.grizzly.sample.impl;
+package ${package}.impl;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
-import net.kungfoo.grizzly.sample.App;
+import ${package}.App;
+
+import java.io.IOException;
 
 /**
  * Bundle activator.

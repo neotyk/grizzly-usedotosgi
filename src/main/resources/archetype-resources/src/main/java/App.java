@@ -1,4 +1,4 @@
-package net.kungfoo.grizzly.sample;
+package ${package};
 
 import com.sun.grizzly.http.embed.GrizzlyWebServer;
 
