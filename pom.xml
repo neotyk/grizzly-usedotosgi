@@ -3,7 +3,7 @@
   <groupId>net.kungfoo.osgi.grizzly</groupId>
   <artifactId>startup</artifactId>
   <packaging>jar</packaging>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
   <name>GrizzlyOSGiQuickStart</name>
   <url>http://code.google.com/p/grizzly-usedotosgi/</url>
 
