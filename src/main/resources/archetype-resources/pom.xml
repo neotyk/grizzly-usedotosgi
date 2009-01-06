@@ -8,7 +8,7 @@
   <version>${version}</version>
 
   <properties>
-    <grizzly.version>1.9.2</grizzly.version>
+    <grizzly.version>1.9.3-SNAPSHOT</grizzly.version>
     <felix.version>1.4.3</felix.version>
     <pax.version>1.4</pax.version>
   </properties>
