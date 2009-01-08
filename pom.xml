@@ -14,13 +14,12 @@
     </license>
   </licenses>
 
-  <description>
-    Shows how to use Grizzly http://grizzly.dev.java.net/ in OSGi environment.
-  </description>
+  <description>QuickStart with Grizzly in OSGi.</description>
 
   <contributors>
     <contributor>
       <name>Hubert Iwaniuk</name>
+      <email>neotyk@kungfoo.pl</email>
       <roles>
         <role>initiator</role>
         <role>maintaner</role>

@@ -7,8 +7,11 @@
   <packaging>bundle</packaging>
   <version>${version}</version>
 
+  <name>${artifactId}</name>
+  <description>Sample Grizzly based server in OSGi environment</description>
+
   <properties>
-    <grizzly.version>1.9.3-SNAPSHOT</grizzly.version>
+    <grizzly.version>1.9.3</grizzly.version>
     <felix.version>1.4.3</felix.version>
     <pax.version>1.4</pax.version>
   </properties>
